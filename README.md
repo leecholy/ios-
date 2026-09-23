@@ -8,4 +8,4 @@
 
 
 ## Screens
-![이미지 설명글](https://github.com/leecholy/ios-/blob/main/priview/Main_1.png)
+![이미지 설명글]([https://github.com/leecholy/ios-/blob/main/priview/Main_1.png](https://github.com/leecholy/ios-/blob/main/NewsApp.png))
